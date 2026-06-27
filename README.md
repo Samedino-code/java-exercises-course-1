@@ -1,4 +1,3 @@
-Markdown
 # ☕ University of Helsinki - Java Programming I
 
 This repository contains my solutions for the official, industry-grade Java course by the University of Helsinki.
